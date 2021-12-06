@@ -29,7 +29,7 @@
 
 ## Stats
 
-![UnniKrishnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=unnikrishnan2002&show_icons=true&theme=radical)
+![UnniKrishnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=unnikrishnan2002&show_icons=true&theme=radical) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=unnikrishnan2002&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![UnniKrishnan's Github activity graph](https://activity-graph.herokuapp.com/graph?username=unnikrishnan2002&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
