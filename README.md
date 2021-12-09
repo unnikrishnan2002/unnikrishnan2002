@@ -28,7 +28,9 @@
 </a>
 
 ## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=unnikrishnan2002&show_icons=true&theme=radical" width="450"/>   <img src="http://github-readme-streak-stats.herokuapp.com?user=unnikrishnan2002&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api?username=unnikrishnan2002&show_icons=true&theme=radical" width=49%/>   <img src="http://github-readme-streak-stats.herokuapp.com?user=unnikrishnan2002&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" width=49%/>
 
-[![UnniKrishnan's Github activity graph](https://activity-graph.herokuapp.com/graph?username=unnikrishnan2002&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![UnniKrishnan's Github activity graph](https://activity-graph.herokuapp.com/graph?username=unnikrishnan2002&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
