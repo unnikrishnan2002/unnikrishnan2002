@@ -34,9 +34,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#777](https://github.com/EddieHubCommunity/LinkFree/issues/777) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 🗣 Commented on [#19](https://github.com/atharva0300/Meme-Generator/issues/19) in [atharva0300/Meme-Generator](https://github.com/atharva0300/Meme-Generator)
-3. ❗️ Opened issue [#19](https://github.com/atharva0300/Meme-Generator/issues/19) in [atharva0300/Meme-Generator](https://github.com/atharva0300/Meme-Generator)
-4. 🗣 Commented on [#18](https://github.com/atharva0300/Meme-Generator/issues/18) in [atharva0300/Meme-Generator](https://github.com/atharva0300/Meme-Generator)
-5. ❗️ Opened issue [#134](https://github.com/commclassroom/classroom-monitor-bot/issues/134) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
+1. ❗️ Closed issue [#134](https://github.com/commclassroom/classroom-monitor-bot/issues/134) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
+2. 🗣 Commented on [#135](https://github.com/commclassroom/classroom-monitor-bot/issues/135) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
+3. 🗣 Commented on [#777](https://github.com/EddieHubCommunity/LinkFree/issues/777) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 🗣 Commented on [#777](https://github.com/EddieHubCommunity/LinkFree/issues/777) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. 🗣 Commented on [#19](https://github.com/atharva0300/Meme-Generator/issues/19) in [atharva0300/Meme-Generator](https://github.com/atharva0300/Meme-Generator)
 <!--END_SECTION:activity-->
