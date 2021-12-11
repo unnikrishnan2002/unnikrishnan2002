@@ -34,9 +34,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#136](https://github.com/commclassroom/classroom-monitor-bot/pull/136) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
-2. 💪 Opened PR [#795](https://github.com/EddieHubCommunity/LinkFree/pull/795) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 💪 Opened PR [#1](https://github.com/unnikrishnan2002/LinkFree/pull/1) in [unnikrishnan2002/LinkFree](https://github.com/unnikrishnan2002/LinkFree)
-4. ❗️ Closed issue [#134](https://github.com/commclassroom/classroom-monitor-bot/issues/134) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
-5. 🗣 Commented on [#135](https://github.com/commclassroom/classroom-monitor-bot/issues/135) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
+1. ❗️ Opened issue [#3085](https://github.com/EddieHubCommunity/support/issues/3085) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 💪 Opened PR [#136](https://github.com/commclassroom/classroom-monitor-bot/pull/136) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
+3. 💪 Opened PR [#795](https://github.com/EddieHubCommunity/LinkFree/pull/795) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 💪 Opened PR [#1](https://github.com/unnikrishnan2002/LinkFree/pull/1) in [unnikrishnan2002/LinkFree](https://github.com/unnikrishnan2002/LinkFree)
+5. ❗️ Closed issue [#134](https://github.com/commclassroom/classroom-monitor-bot/issues/134) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
 <!--END_SECTION:activity-->
