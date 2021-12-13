@@ -35,8 +35,8 @@
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#21](https://github.com/atharva0300/Meme-Generator/issues/21) in [atharva0300/Meme-Generator](https://github.com/atharva0300/Meme-Generator)
-2. 🗣 Commented on [#20](https://github.com/atharva0300/Meme-Generator/issues/20) in [atharva0300/Meme-Generator](https://github.com/atharva0300/Meme-Generator)
-3. ❗️ Opened issue [#3085](https://github.com/EddieHubCommunity/support/issues/3085) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 💪 Opened PR [#136](https://github.com/commclassroom/classroom-monitor-bot/pull/136) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
-5. 💪 Opened PR [#795](https://github.com/EddieHubCommunity/LinkFree/pull/795) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🗣 Commented on [#21](https://github.com/atharva0300/Meme-Generator/issues/21) in [atharva0300/Meme-Generator](https://github.com/atharva0300/Meme-Generator)
+3. 🗣 Commented on [#20](https://github.com/atharva0300/Meme-Generator/issues/20) in [atharva0300/Meme-Generator](https://github.com/atharva0300/Meme-Generator)
+4. ❗️ Opened issue [#3085](https://github.com/EddieHubCommunity/support/issues/3085) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 💪 Opened PR [#136](https://github.com/commclassroom/classroom-monitor-bot/pull/136) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
 <!--END_SECTION:activity-->
