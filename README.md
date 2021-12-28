@@ -34,9 +34,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#125](https://github.com/web3community/web3community.github.io/issues/125) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
-2. ❗️ Opened issue [#170](https://github.com/web3community/start-here/issues/170) in [web3community/start-here](https://github.com/web3community/start-here)
-3. 🗣 Commented on [#1](https://github.com/Kira272921/snowball-bot/issues/1) in [Kira272921/snowball-bot](https://github.com/Kira272921/snowball-bot)
-4. 🗣 Commented on [#21](https://github.com/atharva0300/Meme-Generator/issues/21) in [atharva0300/Meme-Generator](https://github.com/atharva0300/Meme-Generator)
-5. 🗣 Commented on [#21](https://github.com/atharva0300/Meme-Generator/issues/21) in [atharva0300/Meme-Generator](https://github.com/atharva0300/Meme-Generator)
+1. 🗣 Commented on [#31](https://github.com/web3community/blockchain-dev-path/issues/31) in [web3community/blockchain-dev-path](https://github.com/web3community/blockchain-dev-path)
+2. 💪 Opened PR [#4](https://github.com/Kira272921/snowball-bot/pull/4) in [Kira272921/snowball-bot](https://github.com/Kira272921/snowball-bot)
+3. 🗣 Commented on [#125](https://github.com/web3community/web3community.github.io/issues/125) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
+4. ❗️ Opened issue [#170](https://github.com/web3community/start-here/issues/170) in [web3community/start-here](https://github.com/web3community/start-here)
+5. 🗣 Commented on [#1](https://github.com/Kira272921/snowball-bot/issues/1) in [Kira272921/snowball-bot](https://github.com/Kira272921/snowball-bot)
 <!--END_SECTION:activity-->
