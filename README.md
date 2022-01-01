@@ -35,8 +35,8 @@
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#178](https://github.com/web3community/start-here/issues/178) in [web3community/start-here](https://github.com/web3community/start-here)
-2. 💪 Opened PR [#178](https://github.com/web3community/start-here/pull/178) in [web3community/start-here](https://github.com/web3community/start-here)
-3. 🗣 Commented on [#177](https://github.com/web3community/start-here/issues/177) in [web3community/start-here](https://github.com/web3community/start-here)
+2. 🗣 Commented on [#178](https://github.com/web3community/start-here/issues/178) in [web3community/start-here](https://github.com/web3community/start-here)
+3. 💪 Opened PR [#178](https://github.com/web3community/start-here/pull/178) in [web3community/start-here](https://github.com/web3community/start-here)
 4. 🗣 Commented on [#177](https://github.com/web3community/start-here/issues/177) in [web3community/start-here](https://github.com/web3community/start-here)
-5. ❗️ Opened issue [#177](https://github.com/web3community/start-here/issues/177) in [web3community/start-here](https://github.com/web3community/start-here)
+5. 🗣 Commented on [#177](https://github.com/web3community/start-here/issues/177) in [web3community/start-here](https://github.com/web3community/start-here)
 <!--END_SECTION:activity-->
