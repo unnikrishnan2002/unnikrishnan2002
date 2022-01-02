@@ -34,9 +34,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/web3community/.github/pull/17) in [web3community/.github](https://github.com/web3community/.github)
-2. 🗣 Commented on [#16](https://github.com/web3community/.github/issues/16) in [web3community/.github](https://github.com/web3community/.github)
-3. ❗️ Opened issue [#16](https://github.com/web3community/.github/issues/16) in [web3community/.github](https://github.com/web3community/.github)
-4. 🗣 Commented on [#151](https://github.com/commclassroom/classroom-monitor-bot/issues/151) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
-5. 🗣 Commented on [#178](https://github.com/web3community/start-here/issues/178) in [web3community/start-here](https://github.com/web3community/start-here)
+1. 🗣 Commented on [#151](https://github.com/commclassroom/classroom-monitor-bot/issues/151) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
+2. 💪 Opened PR [#17](https://github.com/web3community/.github/pull/17) in [web3community/.github](https://github.com/web3community/.github)
+3. 🗣 Commented on [#16](https://github.com/web3community/.github/issues/16) in [web3community/.github](https://github.com/web3community/.github)
+4. ❗️ Opened issue [#16](https://github.com/web3community/.github/issues/16) in [web3community/.github](https://github.com/web3community/.github)
+5. 🗣 Commented on [#151](https://github.com/commclassroom/classroom-monitor-bot/issues/151) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
 <!--END_SECTION:activity-->
