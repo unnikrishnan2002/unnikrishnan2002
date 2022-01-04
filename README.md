@@ -34,9 +34,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#152](https://github.com/web3community/web3community.github.io/issues/152) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
-2. 🗣 Commented on [#908](https://github.com/EddieHubCommunity/LinkFree/issues/908) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. ❗️ Opened issue [#63](https://github.com/web3community/DEV-NFT/issues/63) in [web3community/DEV-NFT](https://github.com/web3community/DEV-NFT)
-4. 🗣 Commented on [#152](https://github.com/web3community/web3community.github.io/issues/152) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
-5. ❗️ Opened issue [#152](https://github.com/web3community/web3community.github.io/issues/152) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
+1. 💪 Opened PR [#153](https://github.com/web3community/web3community.github.io/pull/153) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
+2. 🗣 Commented on [#152](https://github.com/web3community/web3community.github.io/issues/152) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
+3. 🗣 Commented on [#152](https://github.com/web3community/web3community.github.io/issues/152) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
+4. 🗣 Commented on [#908](https://github.com/EddieHubCommunity/LinkFree/issues/908) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. ❗️ Opened issue [#63](https://github.com/web3community/DEV-NFT/issues/63) in [web3community/DEV-NFT](https://github.com/web3community/DEV-NFT)
 <!--END_SECTION:activity-->
