@@ -34,9 +34,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#901](https://github.com/EddieHubCommunity/LinkFree/issues/901) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. ❗️ Opened issue [#149](https://github.com/web3community/web3community.github.io/issues/149) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
-3. 🗣 Commented on [#148](https://github.com/web3community/web3community.github.io/issues/148) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
-4. 🗣 Commented on [#17](https://github.com/web3community/.github/issues/17) in [web3community/.github](https://github.com/web3community/.github)
-5. 💪 Opened PR [#153](https://github.com/commclassroom/classroom-monitor-bot/pull/153) in [commclassroom/classroom-monitor-bot](https://github.com/commclassroom/classroom-monitor-bot)
+1. 🗣 Commented on [#901](https://github.com/EddieHubCommunity/LinkFree/issues/901) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. ❗️ Opened issue [#901](https://github.com/EddieHubCommunity/LinkFree/issues/901) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. ❗️ Opened issue [#149](https://github.com/web3community/web3community.github.io/issues/149) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
+4. 🗣 Commented on [#148](https://github.com/web3community/web3community.github.io/issues/148) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
+5. 🗣 Commented on [#17](https://github.com/web3community/.github/issues/17) in [web3community/.github](https://github.com/web3community/.github)
 <!--END_SECTION:activity-->
