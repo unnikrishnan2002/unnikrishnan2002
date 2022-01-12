@@ -35,8 +35,8 @@
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#688](https://github.com/EddieHubCommunity/EddieBot/issues/688) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. 🗣 Commented on [#973](https://github.com/EddieHubCommunity/LinkFree/issues/973) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. ❗️ Opened issue [#973](https://github.com/EddieHubCommunity/LinkFree/issues/973) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. ❗️ Opened issue [#955](https://github.com/EddieHubCommunity/LinkFree/issues/955) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. 🗣 Commented on [#149](https://github.com/web3community/web3community.github.io/issues/149) in [web3community/web3community.github.io](https://github.com/web3community/web3community.github.io)
+2. 🗣 Commented on [#688](https://github.com/EddieHubCommunity/EddieBot/issues/688) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. 🗣 Commented on [#688](https://github.com/EddieHubCommunity/EddieBot/issues/688) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. 🗣 Commented on [#973](https://github.com/EddieHubCommunity/LinkFree/issues/973) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. ❗️ Opened issue [#973](https://github.com/EddieHubCommunity/LinkFree/issues/973) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
