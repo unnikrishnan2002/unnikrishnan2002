@@ -1,9 +1,9 @@
 # Hi there 👋 I am Unni Krishnan
 #### Pronouns : He / Him
-- 🌱 Currently learning React JS
+- 🌱 Currently learning React Node Js and Express.
 - :earth_americas:  Looking to contribute to open source projects
 - :sparkles:  Loves to help folks in the community
-- :beginner: Community Classroom Member
+- 🎖️ [MLH](https://github.com/MLH) Mentor
 
 ## Languages
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black) ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
