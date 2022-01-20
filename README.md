@@ -35,8 +35,8 @@
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/arpit456jain/Study-Material/issues/2) in [arpit456jain/Study-Material](https://github.com/arpit456jain/Study-Material)
-2. 💪 Opened PR [#161](https://github.com/WebXDAO/WebXDAO.github.io/pull/161) in [WebXDAO/WebXDAO.github.io](https://github.com/WebXDAO/WebXDAO.github.io)
-3. 🗣 Commented on [#973](https://github.com/EddieHubCommunity/LinkFree/issues/973) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 🗣 Commented on [#688](https://github.com/EddieHubCommunity/EddieBot/issues/688) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. 🗣 Commented on [#2](https://github.com/arpit456jain/Study-Material/issues/2) in [arpit456jain/Study-Material](https://github.com/arpit456jain/Study-Material)
+3. 💪 Opened PR [#161](https://github.com/WebXDAO/WebXDAO.github.io/pull/161) in [WebXDAO/WebXDAO.github.io](https://github.com/WebXDAO/WebXDAO.github.io)
+4. 🗣 Commented on [#973](https://github.com/EddieHubCommunity/LinkFree/issues/973) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 5. 🗣 Commented on [#688](https://github.com/EddieHubCommunity/EddieBot/issues/688) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
