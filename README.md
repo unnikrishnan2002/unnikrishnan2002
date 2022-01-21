@@ -36,7 +36,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#17](https://github.com/arpit456jain/Study-Material/issues/17) in [arpit456jain/Study-Material](https://github.com/arpit456jain/Study-Material)
 2. 🗣 Commented on [#17](https://github.com/arpit456jain/Study-Material/issues/17) in [arpit456jain/Study-Material](https://github.com/arpit456jain/Study-Material)
-3. 💪 Opened PR [#17](https://github.com/arpit456jain/Study-Material/pull/17) in [arpit456jain/Study-Material](https://github.com/arpit456jain/Study-Material)
-4. ❌ Closed PR [#16](https://github.com/arpit456jain/Study-Material/pull/16) in [arpit456jain/Study-Material](https://github.com/arpit456jain/Study-Material)
-5. 💪 Opened PR [#16](https://github.com/arpit456jain/Study-Material/pull/16) in [arpit456jain/Study-Material](https://github.com/arpit456jain/Study-Material)
+3. 🗣 Commented on [#17](https://github.com/arpit456jain/Study-Material/issues/17) in [arpit456jain/Study-Material](https://github.com/arpit456jain/Study-Material)
+4. 💪 Opened PR [#17](https://github.com/arpit456jain/Study-Material/pull/17) in [arpit456jain/Study-Material](https://github.com/arpit456jain/Study-Material)
+5. ❌ Closed PR [#16](https://github.com/arpit456jain/Study-Material/pull/16) in [arpit456jain/Study-Material](https://github.com/arpit456jain/Study-Material)
 <!--END_SECTION:activity-->
