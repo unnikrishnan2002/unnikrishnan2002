@@ -34,9 +34,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/unnikrishnan2002/Note-It/issues/6) in [unnikrishnan2002/Note-It](https://github.com/unnikrishnan2002/Note-It)
-2. 🗣 Commented on [#17](https://github.com/arpit456jain/Study-Material/issues/17) in [arpit456jain/Study-Material](https://github.com/arpit456jain/Study-Material)
-3. 🗣 Commented on [#17](https://github.com/arpit456jain/Study-Material/issues/17) in [arpit456jain/Study-Material](https://github.com/arpit456jain/Study-Material)
+1. 🎉 Merged PR [#10](https://github.com/unnikrishnan2002/Note-It/pull/10) in [unnikrishnan2002/Note-It](https://github.com/unnikrishnan2002/Note-It)
+2. 🗣 Commented on [#10](https://github.com/unnikrishnan2002/Note-It/issues/10) in [unnikrishnan2002/Note-It](https://github.com/unnikrishnan2002/Note-It)
+3. 🗣 Commented on [#6](https://github.com/unnikrishnan2002/Note-It/issues/6) in [unnikrishnan2002/Note-It](https://github.com/unnikrishnan2002/Note-It)
 4. 🗣 Commented on [#17](https://github.com/arpit456jain/Study-Material/issues/17) in [arpit456jain/Study-Material](https://github.com/arpit456jain/Study-Material)
-5. 💪 Opened PR [#17](https://github.com/arpit456jain/Study-Material/pull/17) in [arpit456jain/Study-Material](https://github.com/arpit456jain/Study-Material)
+5. 🗣 Commented on [#17](https://github.com/arpit456jain/Study-Material/issues/17) in [arpit456jain/Study-Material](https://github.com/arpit456jain/Study-Material)
 <!--END_SECTION:activity-->
