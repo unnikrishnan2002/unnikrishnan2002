@@ -34,9 +34,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/prathimacode-hub/Treksy/issues/13) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-2. 🗣 Commented on [#14](https://github.com/prathimacode-hub/Treksy/issues/14) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-3. 💪 Opened PR [#14](https://github.com/prathimacode-hub/Treksy/pull/14) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-4. 🗣 Commented on [#9](https://github.com/prathimacode-hub/Treksy/issues/9) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-5. 🗣 Commented on [#537](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/537) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+1. 🗣 Commented on [#14](https://github.com/prathimacode-hub/Treksy/issues/14) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+2. 🗣 Commented on [#13](https://github.com/prathimacode-hub/Treksy/issues/13) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+3. 🗣 Commented on [#14](https://github.com/prathimacode-hub/Treksy/issues/14) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+4. 💪 Opened PR [#14](https://github.com/prathimacode-hub/Treksy/pull/14) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+5. 🗣 Commented on [#9](https://github.com/prathimacode-hub/Treksy/issues/9) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
 <!--END_SECTION:activity-->
