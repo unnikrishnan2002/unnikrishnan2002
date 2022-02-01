@@ -34,9 +34,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#537](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/537) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-2. 🗣 Commented on [#11](https://github.com/harshita214/Chrome-Extension/issues/11) in [harshita214/Chrome-Extension](https://github.com/harshita214/Chrome-Extension)
+1. 🗣 Commented on [#9](https://github.com/prathimacode-hub/Treksy/issues/9) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+2. 🗣 Commented on [#537](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/537) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
 3. 🗣 Commented on [#11](https://github.com/harshita214/Chrome-Extension/issues/11) in [harshita214/Chrome-Extension](https://github.com/harshita214/Chrome-Extension)
-4. 🗣 Commented on [#2](https://github.com/BRAVO68WEB/url-minify/issues/2) in [BRAVO68WEB/url-minify](https://github.com/BRAVO68WEB/url-minify)
-5. ❗️ Opened issue [#4](https://github.com/ayush-sleeping/Every-Open-Source-Programs/issues/4) in [ayush-sleeping/Every-Open-Source-Programs](https://github.com/ayush-sleeping/Every-Open-Source-Programs)
+4. 🗣 Commented on [#11](https://github.com/harshita214/Chrome-Extension/issues/11) in [harshita214/Chrome-Extension](https://github.com/harshita214/Chrome-Extension)
+5. 🗣 Commented on [#2](https://github.com/BRAVO68WEB/url-minify/issues/2) in [BRAVO68WEB/url-minify](https://github.com/BRAVO68WEB/url-minify)
 <!--END_SECTION:activity-->
