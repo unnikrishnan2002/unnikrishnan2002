@@ -34,9 +34,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/prathimacode-hub/Treksy/pull/14) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-2. 🗣 Commented on [#9](https://github.com/prathimacode-hub/Treksy/issues/9) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-3. 🗣 Commented on [#537](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/537) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
-4. 🗣 Commented on [#11](https://github.com/harshita214/Chrome-Extension/issues/11) in [harshita214/Chrome-Extension](https://github.com/harshita214/Chrome-Extension)
+1. 🗣 Commented on [#14](https://github.com/prathimacode-hub/Treksy/issues/14) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+2. 💪 Opened PR [#14](https://github.com/prathimacode-hub/Treksy/pull/14) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+3. 🗣 Commented on [#9](https://github.com/prathimacode-hub/Treksy/issues/9) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+4. 🗣 Commented on [#537](https://github.com/SauravMukherjee44/Aec-Library-Website/issues/537) in [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
 5. 🗣 Commented on [#11](https://github.com/harshita214/Chrome-Extension/issues/11) in [harshita214/Chrome-Extension](https://github.com/harshita214/Chrome-Extension)
 <!--END_SECTION:activity-->
