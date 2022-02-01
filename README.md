@@ -34,9 +34,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/BRAVO68WEB/url-minify/issues/2) in [BRAVO68WEB/url-minify](https://github.com/BRAVO68WEB/url-minify)
-2. ❗️ Opened issue [#4](https://github.com/ayush-sleeping/Every-Open-Source-Programs/issues/4) in [ayush-sleeping/Every-Open-Source-Programs](https://github.com/ayush-sleeping/Every-Open-Source-Programs)
-3. 🎉 Merged PR [#10](https://github.com/unnikrishnan2002/Note-It/pull/10) in [unnikrishnan2002/Note-It](https://github.com/unnikrishnan2002/Note-It)
-4. 🗣 Commented on [#10](https://github.com/unnikrishnan2002/Note-It/issues/10) in [unnikrishnan2002/Note-It](https://github.com/unnikrishnan2002/Note-It)
-5. 🗣 Commented on [#6](https://github.com/unnikrishnan2002/Note-It/issues/6) in [unnikrishnan2002/Note-It](https://github.com/unnikrishnan2002/Note-It)
+1. 🗣 Commented on [#11](https://github.com/harshita214/Chrome-Extension/issues/11) in [harshita214/Chrome-Extension](https://github.com/harshita214/Chrome-Extension)
+2. 🗣 Commented on [#11](https://github.com/harshita214/Chrome-Extension/issues/11) in [harshita214/Chrome-Extension](https://github.com/harshita214/Chrome-Extension)
+3. 🗣 Commented on [#2](https://github.com/BRAVO68WEB/url-minify/issues/2) in [BRAVO68WEB/url-minify](https://github.com/BRAVO68WEB/url-minify)
+4. ❗️ Opened issue [#4](https://github.com/ayush-sleeping/Every-Open-Source-Programs/issues/4) in [ayush-sleeping/Every-Open-Source-Programs](https://github.com/ayush-sleeping/Every-Open-Source-Programs)
+5. 🎉 Merged PR [#10](https://github.com/unnikrishnan2002/Note-It/pull/10) in [unnikrishnan2002/Note-It](https://github.com/unnikrishnan2002/Note-It)
 <!--END_SECTION:activity-->
