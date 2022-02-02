@@ -34,9 +34,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/prathimacode-hub/Treksy/pull/27) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-2. 🗣 Commented on [#25](https://github.com/prathimacode-hub/Treksy/issues/25) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-3. 🗣 Commented on [#11](https://github.com/harshita214/Chrome-Extension/issues/11) in [harshita214/Chrome-Extension](https://github.com/harshita214/Chrome-Extension)
-4. 🗣 Commented on [#25](https://github.com/prathimacode-hub/Treksy/issues/25) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-5. 🗣 Commented on [#23](https://github.com/prathimacode-hub/Treksy/issues/23) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+1. 🗣 Commented on [#27](https://github.com/prathimacode-hub/Treksy/issues/27) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+2. 💪 Opened PR [#27](https://github.com/prathimacode-hub/Treksy/pull/27) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+3. 🗣 Commented on [#25](https://github.com/prathimacode-hub/Treksy/issues/25) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+4. 🗣 Commented on [#11](https://github.com/harshita214/Chrome-Extension/issues/11) in [harshita214/Chrome-Extension](https://github.com/harshita214/Chrome-Extension)
+5. 🗣 Commented on [#25](https://github.com/prathimacode-hub/Treksy/issues/25) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
 <!--END_SECTION:activity-->
