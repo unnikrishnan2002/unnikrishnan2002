@@ -34,9 +34,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/prathimacode-hub/Treksy/issues/34) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-2. 🗣 Commented on [#20](https://github.com/aman34503/Go-Airbnb/issues/20) in [aman34503/Go-Airbnb](https://github.com/aman34503/Go-Airbnb)
-3. 🗣 Commented on [#35](https://github.com/prathimacode-hub/Treksy/issues/35) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-4. 🗣 Commented on [#30](https://github.com/prathimacode-hub/Treksy/issues/30) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-5. 🗣 Commented on [#30](https://github.com/prathimacode-hub/Treksy/issues/30) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+1. ❌ Closed PR [#1](https://github.com/unnikrishnan2002/Treksy/pull/1) in [unnikrishnan2002/Treksy](https://github.com/unnikrishnan2002/Treksy)
+2. 💪 Opened PR [#1](https://github.com/unnikrishnan2002/Treksy/pull/1) in [unnikrishnan2002/Treksy](https://github.com/unnikrishnan2002/Treksy)
+3. 🗣 Commented on [#34](https://github.com/prathimacode-hub/Treksy/issues/34) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+4. 🗣 Commented on [#20](https://github.com/aman34503/Go-Airbnb/issues/20) in [aman34503/Go-Airbnb](https://github.com/aman34503/Go-Airbnb)
+5. 🗣 Commented on [#35](https://github.com/prathimacode-hub/Treksy/issues/35) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
 <!--END_SECTION:activity-->
