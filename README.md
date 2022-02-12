@@ -34,9 +34,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43](https://github.com/prathimacode-hub/Treksy/pull/43) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-2. ❗️ Opened issue [#41](https://github.com/prathimacode-hub/Treksy/issues/41) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-3. 💪 Opened PR [#40](https://github.com/prathimacode-hub/Treksy/pull/40) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-4. ❌ Closed PR [#1](https://github.com/unnikrishnan2002/Treksy/pull/1) in [unnikrishnan2002/Treksy](https://github.com/unnikrishnan2002/Treksy)
-5. 💪 Opened PR [#1](https://github.com/unnikrishnan2002/Treksy/pull/1) in [unnikrishnan2002/Treksy](https://github.com/unnikrishnan2002/Treksy)
+1. 🎉 Merged PR [#12](https://github.com/unnikrishnan2002/Note-It/pull/12) in [unnikrishnan2002/Note-It](https://github.com/unnikrishnan2002/Note-It)
+2. 💪 Opened PR [#43](https://github.com/prathimacode-hub/Treksy/pull/43) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+3. ❗️ Opened issue [#41](https://github.com/prathimacode-hub/Treksy/issues/41) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+4. 💪 Opened PR [#40](https://github.com/prathimacode-hub/Treksy/pull/40) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+5. ❌ Closed PR [#1](https://github.com/unnikrishnan2002/Treksy/pull/1) in [unnikrishnan2002/Treksy](https://github.com/unnikrishnan2002/Treksy)
 <!--END_SECTION:activity-->
