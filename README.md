@@ -34,9 +34,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#95](https://github.com/SaraswatGit/PlanZap/issues/95) in [SaraswatGit/PlanZap](https://github.com/SaraswatGit/PlanZap)
-2. 🎉 Merged PR [#12](https://github.com/unnikrishnan2002/Note-It/pull/12) in [unnikrishnan2002/Note-It](https://github.com/unnikrishnan2002/Note-It)
-3. 💪 Opened PR [#43](https://github.com/prathimacode-hub/Treksy/pull/43) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-4. ❗️ Opened issue [#41](https://github.com/prathimacode-hub/Treksy/issues/41) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-5. 💪 Opened PR [#40](https://github.com/prathimacode-hub/Treksy/pull/40) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+1. 🗣 Commented on [#7](https://github.com/PrathmeshSadake/unsplashy/issues/7) in [PrathmeshSadake/unsplashy](https://github.com/PrathmeshSadake/unsplashy)
+2. ❗️ Opened issue [#7](https://github.com/PrathmeshSadake/unsplashy/issues/7) in [PrathmeshSadake/unsplashy](https://github.com/PrathmeshSadake/unsplashy)
+3. 🗣 Commented on [#95](https://github.com/SaraswatGit/PlanZap/issues/95) in [SaraswatGit/PlanZap](https://github.com/SaraswatGit/PlanZap)
+4. 🎉 Merged PR [#12](https://github.com/unnikrishnan2002/Note-It/pull/12) in [unnikrishnan2002/Note-It](https://github.com/unnikrishnan2002/Note-It)
+5. 💪 Opened PR [#43](https://github.com/prathimacode-hub/Treksy/pull/43) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
 <!--END_SECTION:activity-->
