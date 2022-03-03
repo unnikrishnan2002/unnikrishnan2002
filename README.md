@@ -34,9 +34,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/PrathmeshSadake/unsplashy/issues/7) in [PrathmeshSadake/unsplashy](https://github.com/PrathmeshSadake/unsplashy)
-2. 💪 Opened PR [#114](https://github.com/SaraswatGit/PlanZap/pull/114) in [SaraswatGit/PlanZap](https://github.com/SaraswatGit/PlanZap)
+1. 🗣 Commented on [#129](https://github.com/SauravMukherjee44/CodeIN-Community-Website/issues/129) in [SauravMukherjee44/CodeIN-Community-Website](https://github.com/SauravMukherjee44/CodeIN-Community-Website)
+2. ❗️ Opened issue [#129](https://github.com/SauravMukherjee44/CodeIN-Community-Website/issues/129) in [SauravMukherjee44/CodeIN-Community-Website](https://github.com/SauravMukherjee44/CodeIN-Community-Website)
 3. 🗣 Commented on [#7](https://github.com/PrathmeshSadake/unsplashy/issues/7) in [PrathmeshSadake/unsplashy](https://github.com/PrathmeshSadake/unsplashy)
-4. ❗️ Opened issue [#7](https://github.com/PrathmeshSadake/unsplashy/issues/7) in [PrathmeshSadake/unsplashy](https://github.com/PrathmeshSadake/unsplashy)
-5. 🗣 Commented on [#95](https://github.com/SaraswatGit/PlanZap/issues/95) in [SaraswatGit/PlanZap](https://github.com/SaraswatGit/PlanZap)
+4. 💪 Opened PR [#114](https://github.com/SaraswatGit/PlanZap/pull/114) in [SaraswatGit/PlanZap](https://github.com/SaraswatGit/PlanZap)
+5. 🗣 Commented on [#7](https://github.com/PrathmeshSadake/unsplashy/issues/7) in [PrathmeshSadake/unsplashy](https://github.com/PrathmeshSadake/unsplashy)
 <!--END_SECTION:activity-->
