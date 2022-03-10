@@ -34,9 +34,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#136](https://github.com/SauravMukherjee44/CodeIN-Community-Website/pull/136) in [SauravMukherjee44/CodeIN-Community-Website](https://github.com/SauravMukherjee44/CodeIN-Community-Website)
-2. 🗣 Commented on [#129](https://github.com/SauravMukherjee44/CodeIN-Community-Website/issues/129) in [SauravMukherjee44/CodeIN-Community-Website](https://github.com/SauravMukherjee44/CodeIN-Community-Website)
+1. 🗣 Commented on [#9](https://github.com/biaw/phone/issues/9) in [biaw/phone](https://github.com/biaw/phone)
+2. 💪 Opened PR [#136](https://github.com/SauravMukherjee44/CodeIN-Community-Website/pull/136) in [SauravMukherjee44/CodeIN-Community-Website](https://github.com/SauravMukherjee44/CodeIN-Community-Website)
 3. 🗣 Commented on [#129](https://github.com/SauravMukherjee44/CodeIN-Community-Website/issues/129) in [SauravMukherjee44/CodeIN-Community-Website](https://github.com/SauravMukherjee44/CodeIN-Community-Website)
-4. ❗️ Opened issue [#129](https://github.com/SauravMukherjee44/CodeIN-Community-Website/issues/129) in [SauravMukherjee44/CodeIN-Community-Website](https://github.com/SauravMukherjee44/CodeIN-Community-Website)
-5. 🗣 Commented on [#7](https://github.com/PrathmeshSadake/unsplashy/issues/7) in [PrathmeshSadake/unsplashy](https://github.com/PrathmeshSadake/unsplashy)
+4. 🗣 Commented on [#129](https://github.com/SauravMukherjee44/CodeIN-Community-Website/issues/129) in [SauravMukherjee44/CodeIN-Community-Website](https://github.com/SauravMukherjee44/CodeIN-Community-Website)
+5. ❗️ Opened issue [#129](https://github.com/SauravMukherjee44/CodeIN-Community-Website/issues/129) in [SauravMukherjee44/CodeIN-Community-Website](https://github.com/SauravMukherjee44/CodeIN-Community-Website)
 <!--END_SECTION:activity-->
