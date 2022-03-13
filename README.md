@@ -34,9 +34,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/biaw/phone/issues/9) in [biaw/phone](https://github.com/biaw/phone)
+1. 💪 Opened PR [#2](https://github.com/DeepanshuDaksh77/online-calculator.github.io/pull/2) in [DeepanshuDaksh77/online-calculator.github.io](https://github.com/DeepanshuDaksh77/online-calculator.github.io)
 2. 🗣 Commented on [#9](https://github.com/biaw/phone/issues/9) in [biaw/phone](https://github.com/biaw/phone)
-3. 💪 Opened PR [#136](https://github.com/SauravMukherjee44/CodeIN-Community-Website/pull/136) in [SauravMukherjee44/CodeIN-Community-Website](https://github.com/SauravMukherjee44/CodeIN-Community-Website)
-4. 🗣 Commented on [#129](https://github.com/SauravMukherjee44/CodeIN-Community-Website/issues/129) in [SauravMukherjee44/CodeIN-Community-Website](https://github.com/SauravMukherjee44/CodeIN-Community-Website)
+3. 🗣 Commented on [#9](https://github.com/biaw/phone/issues/9) in [biaw/phone](https://github.com/biaw/phone)
+4. 💪 Opened PR [#136](https://github.com/SauravMukherjee44/CodeIN-Community-Website/pull/136) in [SauravMukherjee44/CodeIN-Community-Website](https://github.com/SauravMukherjee44/CodeIN-Community-Website)
 5. 🗣 Commented on [#129](https://github.com/SauravMukherjee44/CodeIN-Community-Website/issues/129) in [SauravMukherjee44/CodeIN-Community-Website](https://github.com/SauravMukherjee44/CodeIN-Community-Website)
 <!--END_SECTION:activity-->
