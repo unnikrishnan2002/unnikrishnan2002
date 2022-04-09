@@ -38,9 +38,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/unnikrishnan2002/Narrow-Links/pull/3) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
-2. ❗️ Closed issue [#2](https://github.com/unnikrishnan2002/Narrow-Links/issues/2) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
-3. 💪 Opened PR [#3](https://github.com/unnikrishnan2002/Narrow-Links/pull/3) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
-4. ❗️ Opened issue [#2](https://github.com/unnikrishnan2002/Narrow-Links/issues/2) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
-5. ❗️ Opened issue [#1](https://github.com/unnikrishnan2002/Narrow-Links/issues/1) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
+1. 🎉 Merged PR [#4](https://github.com/unnikrishnan2002/Narrow-Links/pull/4) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
+2. ❗️ Closed issue [#1](https://github.com/unnikrishnan2002/Narrow-Links/issues/1) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
+3. 🎉 Merged PR [#3](https://github.com/unnikrishnan2002/Narrow-Links/pull/3) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
+4. ❗️ Closed issue [#2](https://github.com/unnikrishnan2002/Narrow-Links/issues/2) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
+5. 💪 Opened PR [#3](https://github.com/unnikrishnan2002/Narrow-Links/pull/3) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
 <!--END_SECTION:activity-->
