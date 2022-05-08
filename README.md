@@ -21,7 +21,7 @@
 > 
 > [![image](https://img.shields.io/badge/kvunni2002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kvunni2002@gmail.com)
 >
-> [![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discords.com/bio/p/unnikrishnan)
+> [![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/796418677511553034)
 
 ## Open Source Programs
 </br>
