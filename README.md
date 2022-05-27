@@ -39,9 +39,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/unnikrishnan2002/Narrow-Links/issues/13) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
-2. 🗣 Commented on [#14](https://github.com/unnikrishnan2002/Narrow-Links/issues/14) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
-3. ❗️ Closed issue [#8](https://github.com/unnikrishnan2002/Narrow-Links/issues/8) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
-4. 🗣 Commented on [#8](https://github.com/unnikrishnan2002/Narrow-Links/issues/8) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
-5. ❗️ Opened issue [#8](https://github.com/unnikrishnan2002/Narrow-Links/issues/8) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
+1. 🗣 Commented on [#15](https://github.com/unnikrishnan2002/Narrow-Links/issues/15) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
+2. 🗣 Commented on [#13](https://github.com/unnikrishnan2002/Narrow-Links/issues/13) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
+3. 🗣 Commented on [#14](https://github.com/unnikrishnan2002/Narrow-Links/issues/14) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
+4. ❗️ Closed issue [#8](https://github.com/unnikrishnan2002/Narrow-Links/issues/8) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
+5. 🗣 Commented on [#8](https://github.com/unnikrishnan2002/Narrow-Links/issues/8) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
 <!--END_SECTION:activity-->
