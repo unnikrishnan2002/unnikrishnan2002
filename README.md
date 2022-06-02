@@ -39,9 +39,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/48) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-2. 💪 Opened PR [#48](https://github.com/Pradumnasaraf/open-source-with-pradumna/pull/48) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-3. 🗣 Commented on [#15](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/15) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-4. 🗣 Commented on [#1](https://github.com/Binary-brains-404/A-code-editor/issues/1) in [Binary-brains-404/A-code-editor](https://github.com/Binary-brains-404/A-code-editor)
-5. 💪 Opened PR [#1](https://github.com/Binary-brains-404/A-code-editor/pull/1) in [Binary-brains-404/A-code-editor](https://github.com/Binary-brains-404/A-code-editor)
+1. 🎉 Merged PR [#18](https://github.com/unnikrishnan2002/Narrow-Links/pull/18) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
+2. ❗️ Closed issue [#12](https://github.com/unnikrishnan2002/Narrow-Links/issues/12) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
+3. ❗️ Closed issue [#10](https://github.com/unnikrishnan2002/Narrow-Links/issues/10) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
+4. 🗣 Commented on [#18](https://github.com/unnikrishnan2002/Narrow-Links/issues/18) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
+5. 🗣 Commented on [#48](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/48) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
 <!--END_SECTION:activity-->
