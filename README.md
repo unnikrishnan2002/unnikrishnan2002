@@ -39,9 +39,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/unnikrishnan2002/Narrow-Links/issues/19) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
-2. 🗣 Commented on [#54](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/54) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+1. 🎉 Merged PR [#19](https://github.com/unnikrishnan2002/Narrow-Links/pull/19) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
+2. 🗣 Commented on [#19](https://github.com/unnikrishnan2002/Narrow-Links/issues/19) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
 3. 🗣 Commented on [#54](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/54) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
 4. 🗣 Commented on [#54](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/54) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-5. 🎉 Merged PR [#18](https://github.com/unnikrishnan2002/Narrow-Links/pull/18) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
+5. 🗣 Commented on [#54](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/54) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
 <!--END_SECTION:activity-->
