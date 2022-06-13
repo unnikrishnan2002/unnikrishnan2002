@@ -1,6 +1,6 @@
 # Hi there 👋 I am Unni Krishnan
 #### Pronouns : He / Him
-- 🌱 Currently learning Node Js and Express.
+- 🌱 Currently mastering Node Js and Express.
 - :earth_americas:  Looking to contribute to open source projects
 - :sparkles:  Loves to help folks in the community
 - 🎖️ [MLH](https://github.com/MLH) Mentor
