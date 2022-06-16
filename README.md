@@ -39,9 +39,9 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/virtual-tech-school/youtube-clone/pull/15) in [virtual-tech-school/youtube-clone](https://github.com/virtual-tech-school/youtube-clone)
-2. 💪 Opened PR [#58](https://github.com/Pradumnasaraf/open-source-with-pradumna/pull/58) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-3. 🎉 Merged PR [#19](https://github.com/unnikrishnan2002/Narrow-Links/pull/19) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
-4. 🗣 Commented on [#19](https://github.com/unnikrishnan2002/Narrow-Links/issues/19) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
-5. 🗣 Commented on [#54](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/54) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+1. 🗣 Commented on [#18](https://github.com/virtual-tech-school/youtube-clone/issues/18) in [virtual-tech-school/youtube-clone](https://github.com/virtual-tech-school/youtube-clone)
+2. 💪 Opened PR [#15](https://github.com/virtual-tech-school/youtube-clone/pull/15) in [virtual-tech-school/youtube-clone](https://github.com/virtual-tech-school/youtube-clone)
+3. 💪 Opened PR [#58](https://github.com/Pradumnasaraf/open-source-with-pradumna/pull/58) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+4. 🎉 Merged PR [#19](https://github.com/unnikrishnan2002/Narrow-Links/pull/19) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
+5. 🗣 Commented on [#19](https://github.com/unnikrishnan2002/Narrow-Links/issues/19) in [unnikrishnan2002/Narrow-Links](https://github.com/unnikrishnan2002/Narrow-Links)
 <!--END_SECTION:activity-->
